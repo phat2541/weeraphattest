@@ -1,4 +1,4 @@
-/*
+
 // Step 1 import ....
 const express = require('express')
 const app = express()
@@ -28,4 +28,4 @@ readdirSync('./routes')
 app.listen(5003,
     () => console.log('Server is running on port 5003'))
 
-*/
+
